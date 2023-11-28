@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122456.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122456.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122504.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122504.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122512.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122512.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122516.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122516.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122520.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122520.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122524.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122524.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122525.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122525.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122527.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122527.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122529.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122529.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122530.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122530.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122531.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122531.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122532.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122532.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122533.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122533.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122534.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122534.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122536.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122536.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122914.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122914.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122920.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122920.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122922.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122922.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122923.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122923.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122925.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122925.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122926.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122926.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122928.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122928.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122929.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122929.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122931.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122931.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122932.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122932.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122934.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122934.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122936.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122936.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122938.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122938.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122940.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122940.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_122943.png",
+      "PackagePath": "staticwebassets\\images\\20231128_122943.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_123008.png",
+      "PackagePath": "staticwebassets\\images\\20231128_123008.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_123012.png",
+      "PackagePath": "staticwebassets\\images\\20231128_123012.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_123108.png",
+      "PackagePath": "staticwebassets\\images\\20231128_123108.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\images\\20231128_123400.png",
+      "PackagePath": "staticwebassets\\images\\20231128_123400.png"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kostya\\RiderProjects\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApplication2.props",
+      "PackagePath": "build\\WebApplication2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication2.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApplication2.props",
+      "PackagePath": "buildTransitive\\WebApplication2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

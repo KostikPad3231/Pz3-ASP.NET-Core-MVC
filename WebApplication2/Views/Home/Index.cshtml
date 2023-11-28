@@ -1,0 +1,133 @@
+﻿@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="my-container mx-auto">
+    <div id="toolbar" class="d-flex">
+        <label for="stroke">Stroke</label>
+        <input id="stroke" name="stroke" type="color"/>
+        <label for="lineWidth">Line width</label>
+        <input id="lineWidth" name="lineWidth" type="number" value="30"/>
+        <button id="clear" onclick="clearClick()">Clear</button>
+        <div class="mt-auto">
+            <div>Result: <span id="result">10</span></div>
+            <button class="w-100" onclick="Send()">Submit</button>
+        </div>
+    </div>
+    <canvas id="canvas"></canvas>
+</div>
+
+<div id="images">
+</div>
+
+@section Footer
+{
+    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.05);">
+        © 2020 Copyright:
+        <a class="text-body" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+    </div>
+}
+
+@section Script
+{
+    <script>
+    const updateImages = async () => {
+        try{
+            const response = await fetch('http://localhost:5157/api/lastPredictions', {
+               method: 'GET' 
+            });
+            images.innerHTML = await response.text();
+        }
+        catch (error) {
+            console.log(error);
+        }
+    }
+    
+    updateImages();
+    const resultSpan = document.getElementById('result');
+    const canvas = document.getElementById('canvas');
+    const toolbar = document.getElementById('toolbar');
+    const images = document.getElementById('images');
+    const ctx = canvas.getContext('2d');
+    let isMouseDown = false;
+    let lineWidth = 30;
+
+    const canvasOffsetX = canvas.offsetLeft;
+    const canvasOffsetY = canvas.offsetTop;
+
+    canvas.width = 500;
+    canvas.height = 500;
+
+    const gradient = ctx.createLinearGradient(0, 400, 400, 0);
+    gradient.addColorStop(0, 'magenta');
+    gradient.addColorStop(0.50, 'blue');
+    gradient.addColorStop(1, 'red');
+
+    canvas.addEventListener('mousemove', (e) => {
+        if (isMouseDown){
+            ctx.lineWidth = lineWidth * 2;
+            ctx.lineTo(e.clientX - canvasOffsetX, e.clientY - canvasOffsetY);
+            ctx.stroke();
+        
+            ctx.beginPath();
+            ctx.arc(e.clientX - canvasOffsetX, e.clientY - canvasOffsetY, lineWidth, 0, Math.PI * 2 );
+            ctx.fill();
+        
+            ctx.beginPath();
+            ctx.moveTo(e.clientX - canvasOffsetX, e.clientY - canvasOffsetY);
+        }
+    });
+
+    canvas.addEventListener('mousedown', (e) => {
+        isMouseDown = true;
+        ctx.lineWidth = lineWidth * 2;
+        ctx.beginPath();
+        ctx.arc(e.clientX - canvasOffsetX, e.clientY - canvasOffsetY, lineWidth, 0, Math.PI * 2 );
+        ctx.fill();
+        ctx.beginPath();
+    });
+
+    canvas.addEventListener('mouseup', () => {
+        ctx.beginPath();
+        isMouseDown = false;
+    });
+
+    const clearClick = () => {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+    };
+
+    toolbar.addEventListener('change', e => {
+        if (e.target.id === 'stroke'){
+            ctx.fillStyle = e.target.value;
+            ctx.strokeStyle = e.target.value;
+        }
+        else if (e.target.id === 'lineWidth'){
+            lineWidth = Number(e.target.value);
+            ctx.lineWidth = lineWidth * 2;
+        }
+    });
+
+    const Send = async () => {
+        const imageDataUrl = canvas.toDataURL('image/png').split(',')[1];
+    
+        try{
+            const response = await fetch('http://localhost:5157/api/uploadImage', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({imageData: imageDataUrl})
+            });
+            const result = await response.json();
+            resultSpan.textContent = result.message;
+            console.log(result);
+        }
+        catch (error) {
+            console.log(error);
+        }
+    
+        await updateImages();
+    };    
+    </script>
+}

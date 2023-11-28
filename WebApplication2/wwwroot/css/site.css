@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    overflow: hidden;
+    color: white;
+}
+
+#canvas {
+    background-color: #b6b6b6;
+    /*width: 50%;*/
+    /*height: 50%;*/
+}
+
+.my-container {
+    height: 85%;
+    display: flex;
+}
+
+#toolbar {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    width: 15%;
+    background-color: #0a3622;
+}
+
+#toolbar * {
+    margin-bottom: 6px;
+}
+
+#toolbar input {
+    width: 100%;
+}
+
+#toolbar button {
+    background-color: #1565c0;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    padding: 2px;
+}
+
+#images {
+    color: black;
+}
